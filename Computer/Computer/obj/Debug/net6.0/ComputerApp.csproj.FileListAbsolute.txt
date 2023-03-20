@@ -1,0 +1,15 @@
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\obj\Debug\net6.0\ComputerApp.csproj.AssemblyReference.cache
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\obj\Debug\net6.0\ComputerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\obj\Debug\net6.0\ComputerApp.AssemblyInfoInputs.cache
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\obj\Debug\net6.0\ComputerApp.AssemblyInfo.cs
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\obj\Debug\net6.0\ComputerApp.csproj.CoreCompileInputs.cache
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\bin\Debug\net6.0\ComputerApp.exe
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\bin\Debug\net6.0\ComputerApp.deps.json
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\bin\Debug\net6.0\ComputerApp.runtimeconfig.json
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\bin\Debug\net6.0\ComputerApp.dll
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\bin\Debug\net6.0\ComputerApp.pdb
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\obj\Debug\net6.0\ComputerApp.dll
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\obj\Debug\net6.0\refint\ComputerApp.dll
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\obj\Debug\net6.0\ComputerApp.pdb
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\obj\Debug\net6.0\ComputerApp.genruntimeconfig.cache
+D:\ХХХ\Hillel\Homework\3\Computer\Computer\obj\Debug\net6.0\ref\ComputerApp.dll
